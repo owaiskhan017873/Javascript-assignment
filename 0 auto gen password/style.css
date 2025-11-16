@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.sec{
+    width:100vw;
+    height:100px;
+    background-color:cornflowerblue;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.btn{
+    height:35px;
+    width:130px;
+    border:2PX solid BLACK;
+    border-radius:14px ;
+    color:aliceblue;
+    background-color:gray;
+}
+.btn:hover{
+    height:40px;
+    width:135px;
+}
